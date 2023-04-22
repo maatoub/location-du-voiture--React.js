@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    background-color: aliceblue;
+}
+
+#title {
+    margin-top: 92px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#picture {
+    margin-top: 50px;
+    margin-left: 10px;
+   
+}
+
+#logo {
+    margin-top: -452px;
+    margin-left: 1110px;
+   
+}
+
+#card {
+    margin-top: 400px;
+   
+    
+}
+
+h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.textAccordion {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#logo2 {
+    margin-top: -220px;
+    margin-left: 1160px;
+    position: absolute;
+}

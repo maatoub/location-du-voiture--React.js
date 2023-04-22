@@ -1,0 +1,17 @@
+#container {
+    background-color: #00353F;
+}
+#logo {
+    position: absolute;
+    margin-left: 30cm;
+    margin-top: -2.9cm;
+}
+#lien {
+    font-family: unset;
+    font-size: 17px;
+    padding-top: 30px;
+}
+
+#droit {
+    color: azure;
+}
